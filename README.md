@@ -62,4 +62,4 @@ Pasar POST de 'http://localhost:3001/news' para poblar DB
 <img src="./public/images/Archived.png" alt="Archived"/>
 
 ### Detail
-<img src="./public/images/DetailMobile.png" alt="Detail"/>
+<img src="./public/images/DetailMobile.png" width="300" alt="Detail"/>
